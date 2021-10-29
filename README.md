@@ -20,7 +20,7 @@
 ## How can I get rid of the data stored? 
 
 #### To clear your stored data:
-- Create a ticket on [support server](https://discord.gg/VH4ssqd69g) and ask developer/moderators clear your data.
+- Create a ticket on [support server](https://discord.gg/VH4ssqd69g) and ask developer/moderators to clear your data.
 
 #### You must know the following things before you ask to clear your data:
 - You must have a valid reason.
@@ -39,5 +39,5 @@
 - [Support Server Link](https://discord.gg/VH4ssqd69g)
 - [Vote Link](https://top.gg/bot/860129618987581450/vote)
 
-## Note: That we can change this policy without any warning at any given time.
+## Note: We can change this policy without any warning at any given time.
 #### **Last changed:**  `2021 October 29th`
